@@ -1,0 +1,17 @@
+# Python Virtual Environments (root & subfolders)
+**/.venv/
+**/venv/
+**/ENV/
+
+# Python Cache / Bytecode
+**/__pycache__/
+**/*.py[cod]
+*$py.class
+
+# IDE Settings (PyCharm, VS Code)
+**/.idea/
+**/.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
