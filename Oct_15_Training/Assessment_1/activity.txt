@@ -1,0 +1,4 @@
+Processing started.
+Loading datasets.
+Validating records.
+Processing finished.
