@@ -1,0 +1,6 @@
+user_id,username,monthly_budget,month,total_monthly_spend,savings,alert_status
+1,jersil,300.0,2026-01,274.7,25.30000000000001,WARNING: Near Budget Limit
+2,alex,1300.0,2026-01,1245.0,55.0,WARNING: Near Budget Limit
+1,jersil,300.0,2026-02,250.75,49.25,WARNING: Near Budget Limit
+2,alex,1300.0,2026-02,1292.3,7.7000000000000455,WARNING: Near Budget Limit
+1,jersil,300.0,2026-03,55.4,244.6,OK: Within Budget
