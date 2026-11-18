@@ -1,0 +1,6 @@
+usage_year,usage_week,device_id,device_type,weekly_total_kwh,avg_reading_kwh
+2026,41,DEV_EV_01,EV_Charger,15.25,5.083
+2026,41,DEV_HVAC_01,HVAC,7.37,1.474
+2026,41,DEV_HEATER_01,Heating,5.1,1.275
+2026,41,DEV_WASH_01,Laundry,1.82,0.455
+2026,41,DEV_FRIDGE_01,Refrigeration,0.668,0.134

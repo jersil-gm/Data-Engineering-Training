@@ -1,0 +1,6 @@
+usage_date,device_id,device_type,room_id,daily_total_kwh,avg_voltage,peak_kwh,off_peak_kwh
+2026-10-08,DEV_EV_01,EV_Charger,4,15.25,231.3,1.2,14.05
+2026-10-08,DEV_HVAC_01,HVAC,1,7.37,230.0,6.4,0.97
+2026-10-08,DEV_HEATER_01,Heating,3,5.1,230.5,2.45,2.65
+2026-10-08,DEV_WASH_01,Laundry,2,1.82,229.5,1.8,0.02
+2026-10-08,DEV_FRIDGE_01,Refrigeration,2,0.668,230.1,0.433,0.235
